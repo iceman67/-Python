@@ -1,7 +1,7 @@
 import json
 from xml.etree import ElementTree as et
 
-fin = open("data/input_data/wikipedia.xml","r")
+fin = open("wikipedia.xml","r")
 tree = et.parse(fin)
 root = tree.getroot()
 
