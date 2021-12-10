@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<booklist> 
+  <book id="b1" kind="computer">
+    <title>태백산맥</title>
+    <author>조정래</author>
+    <publisher>백석출판사</publisher>
+    <price>25000</price>
+  </book>
+  <book id="b2" kind="computer">
+    <title>Inside XML</title>
+    <author>홍질동</author>
+    <publisher>이북출판사</publisher>
+    <price>35000</price>
+  </book>
+  <book id="b3" kind="language">
+    <title>쉽게 배우는 영어</title>
+    <author>채규태</author>
+    <publisher>시사영어사</publisher>
+    <price>20000</price>
+  </book>
+</booklist>
